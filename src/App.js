@@ -7,6 +7,7 @@ import Login from "./components/login.component";
 import SignUp from "./components/signup.component";
 import HomePage from "./components/homepage.component";
 
+
 function App() {
   return (<Router>
     <div className="App">
@@ -33,6 +34,7 @@ function App() {
             <Route path="/sign-in" component={Login} />
             <Route path="/sign-up" component={SignUp} />
              <Route path="/home-page" component={HomePage}/>
+
           </Switch>
         </div>
       </div>
