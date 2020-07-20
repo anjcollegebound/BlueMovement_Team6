@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    width:80%;
+    margin:auto;
+}
+
+header{
+    background: url("../goldabs.jpg");
+    height: 100vh;
+    -webkit-background-size:cover;
+    background-size:cover;
+    background-position:center center;
+    position: relative;
+}
+
+.navBar{
+    float: center;
+    list-style:none;
+    margin-top: 30px;
+    background-color:black;
+    
+}
+
+.navBar li{
+    display:inline-block;
+}
+
+.navBar li a{
+    color: #fff;
+    text-decoration:none;
+    padding: 10px 50px;
+    font-size: 30px;
+    font-family: cursive;
+}
+
+.navBar li a:hover{
+    background: #fff;
+    color: #333;
+}
+
+.logo img{
+    width:75px;
+    float:left;
+    height: auto;
+}
+.logo h1{
+    font-family:cursive;
+    font-size: 75px;
+}
+
+.welcome-text{
+    text-align: center;
+    width: 600px;
+    height: 300px;
+    font-family:cursive;
+    position: relative;
+    width:50%;
+    margin:auto;
+    }
+
+.welcome-text h1{
+    color: #fff;
+    font-size:60px;
+}
+
+.welcome-text a{
+    border: 1px solid #fff;
+    padding:10px 25px;
+    text-decoration:none;
+    font-size: 30px;
+    margin-top: 20px;
+    display: inline-block;
+    color: #fff;
+
+}
+
+.welcome-text a:hover{
+    background:black;
+    color:#fff;
+}
