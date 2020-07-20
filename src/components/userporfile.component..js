@@ -6,7 +6,6 @@ export default class UserProfile extends Component{
     render(){
 
         return(
-    
 <body> 
     <div class="container">
         <div class="profile-header">
@@ -31,7 +30,6 @@ export default class UserProfile extends Component{
                 </div>
             </div>
         </div>
-    </div>
     </div>
     <script src=".jquery/jquery.js"></script>
     </body>
