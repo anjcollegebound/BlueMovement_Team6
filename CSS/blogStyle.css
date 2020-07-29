@@ -1,0 +1,56 @@
+/* *{
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    width:80%;
+    margin:auto;
+}
+
+header{
+    background: url("../goldabs.jpg");
+    height: 200px;
+    -webkit-background-size:cover;
+    background-size:cover;
+    background-position:center center;
+    position: relative;
+}
+
+.navBar{
+    float: center;
+    list-style:none;
+    margin-top: 30px;
+    background-color:black;
+    
+}
+
+.navBar li{
+    display:inline-block;
+}
+
+.navBar li a{
+    color: #fff;
+    text-decoration:none;
+    padding: 10px 50px;
+    font-size: 30px;
+    font-family: cursive;
+}
+
+.navBar li a:hover{
+    background: #fff;
+    color: #333;
+}
+
+.logo img{
+    width:75px;
+    float:left;
+    height: auto;
+}
+.logo h1{
+    font-family:cursive;
+    font-size: 75px;
+}
+.dib-post{
+    background: url("../goldabs.jpg");
+} */
